@@ -1,0 +1,13 @@
+{
+  "name": "魔女鍋 神経衰弱",
+  "short_name": "魔女鍋神経衰弱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e4d4f5",
+  "theme_color": "#5b3a7a",
+  "icons": [
+    { "src": "img/icon.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "img/icon192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
